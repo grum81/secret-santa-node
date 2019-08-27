@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # VS Code
 .vscode/
 
+=======
+>>>>>>> 9d46af815e6d9346a2ed8b754ee3a2eb7628567d
 # Logs
 logs
 *.log
@@ -61,4 +64,8 @@ typings/
 .env
 
 # next.js build output
+<<<<<<< HEAD
 .next
+=======
+.next
+>>>>>>> 9d46af815e6d9346a2ed8b754ee3a2eb7628567d
