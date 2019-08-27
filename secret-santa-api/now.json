@@ -1,0 +1,7 @@
+{
+  "name": "secret-santa-api",
+  "version": 2,
+  "env": {
+    "MONGODB_URI": "@secret-santa-mongodb-uri"
+  }
+}
